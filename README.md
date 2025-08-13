@@ -1,6 +1,6 @@
 ## Magic MIDI Box v1 — ESP32 Bluetooth MIDI Controller
 
-### 🇧🇷 Português
+### Português
 
 **Resumo**
 
@@ -138,5 +138,6 @@ Example: to start at MIDI note 36 (C2), set `Offset = 35` so the first button (1
 —
 
 Seção de licença: adicione a licença de sua preferência (ex.: MIT) ao repositório.
+
 
 
